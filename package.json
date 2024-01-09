@@ -39,6 +39,9 @@
   "name": "mylib",
   "author": "Kunal Jain",
   "module": "dist/mylib.esm.js",
+  "publishConfig": {
+    "access": "public"
+  },
   "size-limit": [
     {
       "path": "dist/mylib.cjs.production.min.js",
