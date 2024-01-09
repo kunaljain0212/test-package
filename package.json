@@ -36,19 +36,19 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "mylib",
+  "name": "dls-jainkunal",
   "author": "Kunal Jain",
-  "module": "dist/mylib.esm.js",
+  "module": "dist/dls-jainkunal.esm.js",
   "publishConfig": {
     "access": "public"
   },
   "size-limit": [
     {
-      "path": "dist/mylib.cjs.production.min.js",
+      "path": "dist/dls-jainkunal.cjs.production.min.js",
       "limit": "10 KB"
     },
     {
-      "path": "dist/mylib.esm.js",
+      "path": "dist/dls-jainkunal.esm.js",
       "limit": "10 KB"
     }
   ],
